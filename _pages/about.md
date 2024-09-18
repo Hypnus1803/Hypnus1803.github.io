@@ -6,7 +6,7 @@ subtitle: <a href="https://www.asu.cas.cz/en/departments/solar-department">Astro
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
