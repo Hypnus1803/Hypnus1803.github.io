@@ -5,7 +5,7 @@
     "image": "",
     "email": "jose.ivan.campos.rozo@asu.cas.cz",
     "phone": "(+420) 603 591 439 ",
-    "url": "https:hypnsu1803.github.io",
+    "url": "https:hypnus1803.github.io",
     "summary": "An enthusiastic physicist, working and playing around with solar images. Trying to understand our star and its behavior.",
     "location": {
       "address": "Fri&#269ova 298",
@@ -169,14 +169,14 @@
   ],
   "references": [
     {
-      "name": "Prof. Dr. Santiago Vargas Domínguez",
+      "name": "Prof. Dr. Santiago Vargas Dominguez",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogota, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
+      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
     },
     {
       "name": "Professor Benjamin Calvo Mozo",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogota, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
+      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
     }
   ]
 }
