@@ -1,72 +1,72 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Jose Ivan Campos Rozo",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jose.ivan.campos.rozo@asu.cas.cz",
+    "phone": "(+420) 603 591 439 ",
+    "url": "https:hypnsu1803.github.io",
+    "summary": "An enthusiastic physicist, working and playing around with solar images. Trying to understand our star and its behavior.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Fri&#269ova 298",
+      "postalCode": "251 65",
+      "city": "Ond&#345ejov",
+      "countryCode": "CZ",
+      "region": "Czech Republic"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X (Former Twitter)",
+        "username": "hypnus1003",
+        "url": "https://x.com/hypnus1003"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Astronomical Institute of the Czech Academy of Sciences",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.asu.cas.cz/en/departments/solar-department",
+      "startDate": "2023-10-03",
+      "endDate": "",
+      "summary": "Working in the understanding of the solar atmosphere and its magnetic field. Using data from the Solar Dynamics Observatory (SDO) and ground-based telescopes such as Gregor and SST.",
+      "highlights": ["Solar Physics"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "location": "Zurich, Switzerland",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Karl-Franzens University of Graz",
+      "location": "Graz, Austria",
+      "url": "https://www.uni-gra.at/",
+      "area": "Institute of Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-04-01",
+      "endDate": "2023-09-25",
+      "score": "Very Good",
+      "courses": ["Solar Physics"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "Nobel Prize in Physics",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
   "certificates": [
     {
       "name": "Machine Learning",
@@ -140,18 +140,31 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Solar Physics",
+        "Electromagnetism",
+        "Special Relativity",
+        "Plasma Physcis",
+        "Fluids Mechanics",
+        "Thermodynamics",
+        "Statistical Mechanics"
+      ]
+    }
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "IDL",
+        "Machine Learning",
+        "Image Processing"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +176,36 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Science and Technology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Medical images processing",
+        "Biophysics",
+        "Metheorology",
+        "Satellite developement"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Dr. Santiago Vargas Domínguez",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogota, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Benjamin Calvo Mozo",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogota, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  // "projects": [
+  //   {
+  //     "name": "Quantum Computing",
+  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+  //     "startDate": "2018-01-01",
+  //     "endDate": "2018-01-01",
+  //     "url": "https://example.com"
+  //   }
+  // ]
 }
