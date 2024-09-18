@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-    <p>Your City, State 12345</p>
+    <p>Ond&#345ejov, 251 65, Czech Republic</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
