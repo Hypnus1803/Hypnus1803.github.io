@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.asu.cas.cz/en/departments/solar-department'>Astronomical Institute of the Czech Academy of Science (Solar Department)</a>. Fričova 298, 251 65, Ondřejov, Czech Republic.
+subtitle: <a href="https://www.asu.cas.cz/en/departments/solar-department">Astronomical Institute of the Czech Academy of Science (Solar Department)</a>. Fričova 298, 251 65, Ondřejov, Czech Republic.
 
 profile:
   align: right
