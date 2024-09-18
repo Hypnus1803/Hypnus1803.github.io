@@ -1,16 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.asu.cas.cz/en/departments/solar-department'>Astronomical Institute of the Czech Academy of Science (Solar Department)</a>. Fričova 298, 251 65, Ondřejov, Czech Republic.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
