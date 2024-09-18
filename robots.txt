@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Hypnus1803.github.io/sitemap.xml
+Sitemap: https://hypnus1803.github.io/sitemap.xml
