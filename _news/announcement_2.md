@@ -6,7 +6,17 @@ inline: false
 related_posts: false
 ---
 
-This is an example of how Long post for news looks.
+Topic: Interaction between solar convection and magnetic fields
+Supervisor: Jan Jurčák, Ph.D. (ASÚ AV ČR)
+Doctorand:  Marta García Rivas
+
+#### Referees
+
+<ul>
+    <li>Dr. Santiago Vargas Domínguez</li>
+    <li>Dr. Siu Tapia Azaymi Litzi</li>
+</ul>
+
 
 ---
 
