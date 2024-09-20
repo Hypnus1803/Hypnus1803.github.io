@@ -45,74 +45,98 @@
       "endDate": "2023-09-25",
       "score": "Very Good",
       "courses": ["Solar Physics"]
+    },
+    {
+      "institution": "Universidad de Colombia",
+      "location": "Bogotá, Colombia",
+      "url": "https://unal.edu.co/",
+      "area": "Observatorio Astronómico Nacional",
+      "studyType": "Magister",
+      "startDate": "2015-01-31",
+      "endDate": "2016-12-08",
+      "score": "Excellent",
+      "courses": ["Solar Physics"]
+    },
+    {
+      "institution": "Universidad de Colombia",
+      "location": "Bogotá, Colombia",
+      "url": "https://unal.edu.co/",
+      "area": "Departamento de Física",
+      "studyType": "Physics",
+      "startDate": "2007-02-01",
+      "endDate": "2014-06-15",
+      "score": "Good",
+      "courses": ["Physics"]
     }
   ],
   
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Intermediate PostgresSQL",
+      "date": "July 2021",
+      "issuer": "University of Michigan",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/M4VNNLNA34X2",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Database Design and Basic SQL in PostgreSQL",
+      "date": "June 2021",
+      "issuer": "University of Michigan",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/KG2LWVRA237M",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Machine Learning in the Enterprise",
+      "date": "March 17, 2021",
+      "issuer": "Google Cloud",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/5H83UXGNJB6L",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Feature Engineering",
+      "date": "February 25, 2021",
+      "issuer": "Google Cloud",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/5ZEA9FDVUJNV",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data-driven Astronomy",
+      "date": "December, 9, 2020",
+      "issuer": "The University of Sidney",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/ATCL294ZJ5K5",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Applied Machine Learning in Python",
+      "date": "September 28, 2020",
+      "issuer": "University of Michigan",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/UK4C4FLHX9WK",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Exploring magnetic field properties at the boundary of solar pores: A comparative study based on SDO-HMI observations.",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "June 2023",
+      "url": "https://www.aanda.org/articles/aa/pdf/2023/06/aa46389-23.pdf",
+      "doi": "10.1051/0004-6361/202346389",
+      "summary": "Solar pores are regions of intensified magnetic field strength compared to the surrounding photospheric environment, and their study can help us better understand the properties and behaviour of magnetic fields in the Sun."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Photospheric plasma and magnetic field dynamics during the formation of solar AR 11190.",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "February 2019",
+      "url": "https://www.aanda.org/articles/aa/pdf/2019/02/aa32760-18.pdf",
+      "doi": "10.1051/0004-6361/201832760",
+      "summary": "The Sun features on its surface typical flow patterns called the granulation, mesogranulation, and supergranulation. These patterns arise due to convective flows transporting energy from the interior of the Sun to its surface."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "SunPy: Python for Solar Physics. An implementation for local correlation tracking.",
+      "publisher": "Central European Astrophysical Bulletin",
+      "releaseDate": "2014",
+      "url": "https://articles.adsabs.harvard.edu/pdf/2014CEAB...38...67C",
+      "summary": "Python programming language has experienced a great progress and growing use in the scientific community in the last years as well as a direct impact on solar physics."
     }
   ],
   "skills": [
