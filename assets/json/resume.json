@@ -48,9 +48,9 @@
     },
     {
       "institution": "Universidad de Colombia",
-      "location": "Bogotá, Colombia",
+      "location": "Bogota, Colombia",
       "url": "https://unal.edu.co/",
-      "area": "Observatorio Astronómico Nacional",
+      "area": "Observatorio Astronomico Nacional",
       "studyType": "Magister",
       "startDate": "2015-01-31",
       "endDate": "2016-12-08",
@@ -59,9 +59,9 @@
     },
     {
       "institution": "Universidad de Colombia",
-      "location": "Bogotá, Colombia",
+      "location": "Bogota, Colombia",
       "url": "https://unal.edu.co/",
-      "area": "Departamento de Física",
+      "area": "Departamento de Fisica",
       "studyType": "Physics",
       "startDate": "2007-02-01",
       "endDate": "2014-06-15",
@@ -203,14 +203,14 @@
   ],
   "references": [
     {
-      "name": "Prof. Dr. Santiago Vargas Domínguez",
+      "name": "Prof. Dr. Santiago Vargas Dominguez",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogotá, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
+      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
     },
     {
-      "name": "Professor Benjamín Calvo Mozo",
+      "name": "Professor Benjamin Calvo Mozo",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogotá, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
+      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
     }
   ]
 }
