@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 Topic: Interaction between solar convection and magnetic fields
-Supervisor: Jan Jurčák, Ph.D. (ASÚ AV ČR)
+Supervisor: Jan Jur&#269ák, Ph.D. (ASÚ AV &#268R)
 Doctorand:  Marta García Rivas
 
 #### Referees
