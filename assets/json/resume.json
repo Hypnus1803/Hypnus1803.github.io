@@ -189,18 +189,28 @@
         "Metheorology",
         "Satellite developement"
       ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Traveling",
+        "Cooking",
+        "Anime",
+        "Wine and beer tasting"
+      ]
     }
   ],
   "references": [
     {
-      "name": "Prof. Dr. Santiago Vargas Dominguez",
+      "name": "Prof. Dr. Santiago Vargas Domínguez",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
+      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogotá, Colombia. He is an expert in the study proper motions and interaction with the solar magnetic field."
     },
     {
-      "name": "Professor Benjamin Calvo Mozo",
+      "name": "Professor Benjamín Calvo Mozo",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor of Solar Physics at the Observatorio Astronomico Nacional (OAN), Bogota, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
+      "reference": "Professor of Solar Physics at the Observatorio Astronómico Nacional (OAN), Bogotá, Colombia. He is an expert in theoretical solar physics and plasma physics. He is also interested in development of astronomical instrumentation."
     }
   ]
 }
